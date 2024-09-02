@@ -1,15 +1,16 @@
 #  Hi, I’m Bettina
 <p>I'm a very creative person, looking foward to get my life easier with tech.</p>
-Also a CodeAcademy student
 
-<p align="center">
+I'm Also a **CodeAcademy** student!!
+<br>
+<p>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-
-- currently studying:
+<br>
+-<h1>**currently studying:**</h1>
 
 ![icons8-logo-java-coffee-cup-48](https://github.com/user-attachments/assets/0cc853ea-d0bd-4565-bd54-3c5de9324abf)
 ![icons8-html-48](https://github.com/user-attachments/assets/3974fdf1-626f-41c2-88ed-ebd67c3455b7)
