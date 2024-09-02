@@ -5,9 +5,9 @@ I'm Also a **CodeAcademy** student!!
 <br>
 <p>
 <a href="https://github.com/BettBernarda">
-  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BettBernarda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BettBernarda&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <br>
-  <img height="90em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BettBernarda&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BettBernarda&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 <br>
