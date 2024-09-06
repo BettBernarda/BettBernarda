@@ -1,7 +1,7 @@
 #  Hi, I’m Bettina
 <p>I'm a very creative person, looking foward to get my life easier with tech.</p>
 
-I'm Also a **CodeAcademy** student!!
+I'm Also a <a href="https://www.codecademy.com/profiles/bett_coins">**CodeAcademy**</a> student!!
 <br>
 <p>
 <a href="https://github.com/BettBernarda">
