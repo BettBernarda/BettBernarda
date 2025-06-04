@@ -10,5 +10,4 @@ I'm Also a <a href="https://www.codecademy.com/profiles/bett_coins">**Codecademy
   <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BettBernarda&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<br>
-currently studying:
+
