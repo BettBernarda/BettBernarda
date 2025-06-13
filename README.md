@@ -1,5 +1,5 @@
 #  Hi, I’m Bettina
-<p>If there's pain, there's a way, my job here is to discouver that path and save the day with tech! </p>
+### If there's pain, there's a way, my job here is to discouver that path and save the day with tech!
 <p>Good quotes asside, I'm a Fullstack developer, I love to build softwares that solve problems from my day-to-day,
 feel free to look thought my projects, if somethings works for you, that means I made a good job!</p>
 <br>
