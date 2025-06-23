@@ -1,9 +1,10 @@
-#  Hi, I’m Bettina
-### If there's pain there's a way - my job here is to discouver that path and save the day with tech!
+<h1 align="center"> <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%">  Welcome to Betty's github page  <img src="https://media3.giphy.com/media/l4FGr7tMjH3ajuwy4/giphy.gif" width="4%"> </h1>
+
+### If there's pain there's a way - my job here is to discouver that path and souve with some code!
 
 ---
 <p>Good quotes asside, I'm a Fullstack developer, I love to build softwares that solve problems from my day-to-day,
-feel free to look thought my projects, if somethings works for you, that means I made a good job!</p>
+feel free to look thought my projects!</p>
 <br>
 <p>
   <a href="https://github.com/BettBernarda">
